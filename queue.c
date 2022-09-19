@@ -83,7 +83,7 @@ void q_reverse(queue_t *q)
 }
 
 /*
- * The fununction's sorting algorithm should be merge sort.
+ * The function's sorting algorithm should be merge sort.
  */
 void merge_sort(element_t **head)
 {
