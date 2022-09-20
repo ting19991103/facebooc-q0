@@ -90,3 +90,6 @@ a BSD-style license that can be found in the LICENSE file.
 
 External source code:
 * [git-good-commit](https://github.com/tommarshall/git-good-commit): MIT License
+
+**This Program is rewritten from [sysprog21 /
+lab0-c](https://github.com/sysprog21/lab0-c)**
