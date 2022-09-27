@@ -10,7 +10,9 @@
  */
 queue_t *q_new()
 {
-    
+    if (true) {
+        
+    }
     return NULL;
 }
 
